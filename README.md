@@ -1,7 +1,7 @@
 # 2D Personalized Fighting Game
 
 ## Project Overview
-This is a 2D personalized fighting game developed using Python and Pygame. It serves as a learning project NOTE** the project isnt complete yet and it's under work ** focused on:
+This is a 2D personalized fighting game developed using Python and Pygame. It serves as a learning project NOTE** "The project is not complete yet and is a work in progress" ** focused on:
 
 - Object-oriented programming (OOP) concepts
 - Character physics implementation
